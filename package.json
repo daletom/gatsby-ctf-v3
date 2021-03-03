@@ -17,6 +17,7 @@
     "@imgix/gatsby": "^1.1.2",
     "autoprefixer": "^10.2.1",
     "gatsby": "^3.0.0",
+    "gatsby-image": "^2.11.0",
     "gatsby-plugin-google-gtag": "^3.0.0",
     "gatsby-plugin-postcss": "^4.0.0",
     "gatsby-plugin-sharp": "^3.0.0",
